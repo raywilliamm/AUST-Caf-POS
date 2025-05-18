@@ -1,6 +1,6 @@
 # AUST-Caf-POS
 University project: Point-of-Sale System (POS)  “AUST CAFÉ” 
-🧾 AUST Café – Point of Sale (POS) System
+AUST Café – Point of Sale (POS) System
 A simple, user-friendly Point-of-Sale (POS) system developed using Python and Tkinter for the fictional "AUST Café". Built as a final project for the ICT250 Computer Programming II course.
 
 # Project Overview
